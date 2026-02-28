@@ -1,5 +1,7 @@
 # OrgX Behavioural Analytics Hackathon
-![Banner](assets/images.jpg)
+<p align="center">
+  <img src="assets/images.jpg" width="600">
+</p>
 
 ## Problem Statement Chosen
 Early Detection of Student Burnout & Dropout Risk
