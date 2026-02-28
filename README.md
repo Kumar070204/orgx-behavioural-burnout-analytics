@@ -1,6 +1,6 @@
 # OrgX Behavioural Analytics Hackathon
 <p align="center">
-  <img src="data/notebook/assets/images.jpg" width="600">
+  <img src="assets/images.jpg" width="600">
 </p>
 
 ## Problem Statement Chosen
